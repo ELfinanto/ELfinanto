@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ELfinanto
-- 👀 Data analyst
-- 🌱 Cloud- Azure
-- 📫elfinantosahayaraj@gmail.com
+-  Aspiring Data analyst
+-  Python | MYSQL | TABLEAU | ADVANCED EXCEL
+- 📫elfinantos@gmail.com
 
 <!---
 ELfinanto/ELfinanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
